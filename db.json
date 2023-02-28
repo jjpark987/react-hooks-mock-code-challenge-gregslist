@@ -1,10 +1,10 @@
 {
   "listings": [
     {
-      "id": 1,
-      "description": "heater",
-      "image": "./images/heater.jpg",
-      "location": "BROOKLYN"
+     "id": 1, 
+     "description": "heater", 
+     "image": "./images/heater.jpg", 
+     "location": "BROOKLYN"
     },
     {
       "id": 2,
